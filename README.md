@@ -1,0 +1,1 @@
+Hello, this is Shaq's first Odin project with Git!
